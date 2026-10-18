@@ -1,0 +1,5 @@
+gate,description,status,n_required_fields,n_fields_meeting_threshold,blocking_fields
+GATE_DESCRIPTIVE,Descriptive analysis of available data,CLOSED,12,9,identity_confidence; source_group_id; independence_status
+GATE_SOURCE_GROUP_COMPARISON,Source-group-level comparison,CLOSED,17,11,identity_confidence; identification_method; source_group_id; independence_status; n_verified_independent_specimens; chemistry_evidence_level
+GATE_SPECIMEN_CHEMISTRY,Specimen-specific chemistry or structure modelling,CLOSED,22,11,identity_confidence; identification_method; source_group_id; unique_specimen_identifier; geographic_provenance; independence_status; n_verified_independent_specimens; thermal_treatment; specimen_specific_chemistry; chemistry_evidence_level; crystallographic_evidence_source
+GATE_INTERPRETABLE_ML,Interpretable ML or symbolic regression,CLOSED,22,11,identity_confidence; identification_method; source_group_id; unique_specimen_identifier; geographic_provenance; independence_status; n_verified_independent_specimens; thermal_treatment; specimen_specific_chemistry; chemistry_evidence_level; crystallographic_evidence_source

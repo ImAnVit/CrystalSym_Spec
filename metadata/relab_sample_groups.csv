@@ -1,0 +1,630 @@
+sample_group_id,relab_sample_id,n_measurements,mineral_directories,n_mineral_directories,n_exact_duplicate_records,n_potentially_related_records,cross_mineral,measurement_geometries,grain_sizes,instrument_prefixes,avg_metadata_completeness,has_uncertainty_count,n_cf_records,identity_issues,date_range
+SPM0001,AE-CMP-010,1,Enstatite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,3-AUG-88 to 3-AUG-88
+SPM0002,AG-TJM-008,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,c1,15.0,1,0,,15-FEB-06 to 15-FEB-06
+SPM0003,AG-TJM-009,2,Hypersthene;Olivine,2,2,2,1,"(30.00,0.00)",<45 um,c1,15.0,2,0,multiple mineral directories: Hypersthene;Olivine; 2 exact duplicate files,15-FEB-06 to 15-FEB-06
+SPM0004,AG-TJM-010,2,Augite;Olivine,2,2,2,1,"(30.00,0.00)",<45 um,c1,15.0,2,0,multiple mineral directories: Augite;Olivine; 2 exact duplicate files,15-FEB-06 to 15-FEB-06
+SPM0005,AG-TJM-011,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,c1,15.0,1,0,,15-FEB-06 to 15-FEB-06
+SPM0006,AG-TJM-012,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,16-MAY-06 to 16-MAY-06
+SPM0007,AG-TJM-013,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,16-MAY-06 to 16-MAY-06
+SPM0008,AG-TJM-014,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,19-MAY-06 to 19-MAY-06
+SPM0009,AG-TJM-015,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,19-MAY-06 to 19-MAY-06
+SPM0010,AG-TJM-016,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,19-MAY-06 to 19-MAY-06
+SPM0011,AG-TJM-017,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,15-JUN-06 to 15-JUN-06
+SPM0012,AG-TJM-018,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,15-JUN-06 to 15-JUN-06
+SPM0013,AG-TJM-019,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,15-JUN-06 to 15-JUN-06
+SPM0014,AG-TJM-020,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,15-JUN-06 to 15-JUN-06
+SPM0015,AG-TJM-021,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,19-JUN-06 to 19-JUN-06
+SPM0016,AG-TJM-022,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,19-JUN-06 to 19-JUN-06
+SPM0017,AG-TJM-023,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,19-JUN-06 to 19-JUN-06
+SPM0018,AG-TJM-024,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-JUN-06 to 20-JUN-06
+SPM0019,AG-TJM-025,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-JUN-06 to 20-JUN-06
+SPM0020,AG-TJM-026,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-JUN-06 to 20-JUN-06
+SPM0021,AG-TJM-027,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,28-AUG-06 to 28-AUG-06
+SPM0022,AG-TJM-028,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,28-AUG-06 to 28-AUG-06
+SPM0023,AG-TJM-029,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,28-AUG-06 to 28-AUG-06
+SPM0024,AG-TJM-030,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,28-AUG-06 to 28-AUG-06
+SPM0025,AG-TJM-031,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0026,AG-TJM-032,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0027,AG-TJM-033,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0028,AG-TJM-034,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0029,AG-TJM-035,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0030,AG-TJM-036,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0031,AG-TJM-037,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0032,AG-TJM-038,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,30-AUG-06 to 30-AUG-06
+SPM0033,AG-TJM-039,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,01-SEP-06 to 01-SEP-06
+SPM0034,AG-TJM-040,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,01-SEP-06 to 01-SEP-06
+SPM0035,AG-TJM-041,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,01-SEP-06 to 01-SEP-06
+SPM0036,AG-TJM-042,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0037,AG-TJM-043,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0038,AG-TJM-044,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0039,AG-TJM-045,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0040,AG-TJM-046,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0041,AG-TJM-047,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,18-SEP-06 to 18-SEP-06
+SPM0042,AG-TJM-048,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-SEP-06 to 20-SEP-06
+SPM0043,AG-TJM-049,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-SEP-06 to 20-SEP-06
+SPM0044,AG-TJM-050,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,20-SEP-06 to 20-SEP-06
+SPM0045,AG-TJM-051,2,Augite;Hypersthene,2,2,2,1,"(30.00,0.00)",<38 um,c1,15.0,2,0,multiple mineral directories: Augite;Hypersthene; 2 exact duplicate files,02-AUG-07 to 02-AUG-07
+SPM0046,AO-CMP-010,1,Olivine,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,02-SEP-87 to 02-SEP-87
+SPM0047,AO-CMP-011,1,Olivine,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,02-SEP-87 to 02-SEP-87
+SPM0048,AO-RAF-001,1,Olivine,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,9-DEC-86 to 9-DEC-86
+SPM0049,AO-RAF-002,1,Olivine,1,0,0,0,"(30.00,0.00)",<250 UM,c1,9.0,0,0,,11-JAN-88 to 11-JAN-88
+SPM0050,BE-JFM-017,2,Olivine,1,0,0,0,"(30.00,0.00)",45-75 um,bir1;c1,12.0,1,0,,03-MAR-08 to 6-MAR-08
+SPM0051,BE-JFM-021,2,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,04-MAR-08 to 7-MAR-08
+SPM0052,BE-JFM-025,2,Olivine,1,0,0,0,"(30.00,0.00)",75-125 um,bir1;c1,12.0,1,0,,05-MAR-08 to 7-MAR-08
+SPM0053,BE-JFM-028,2,Olivine,1,0,0,0,"(30.00,0.00)",45-75 um,bir1;c1,12.0,1,0,,13-MAY-08 to 13-MAY-08
+SPM0054,BE-JFM-029,2,Olivine,1,0,0,0,"(30.00,0.00)",250-500 um,bir1;c1,12.0,1,0,,13-MAY-08 to 14-MAY-08
+SPM0055,BE-JFM-080,2,Olivine,1,0,0,0,"(30.00,0.00)",<25 um,bir1;c1,12.0,1,0,,10-OCT-08 to 17-OCT-08
+SPM0056,BE-JFM-081,3,Olivine,1,0,0,0,"(30.00,0.00)",25-45 um,bir1;bir2;c1,11.0,1,0,,10-OCT-08 to 23-JAN-09
+SPM0057,BE-JFM-082,3,Olivine,1,0,0,0,"(30.00,0.00)",45-63 um,bir2;c1,11.0,1,0,,10-OCT-08 to 23-JAN-09
+SPM0058,BE-JFM-083,2,Olivine,1,0,0,0,"(30.00,0.00)",63-75 um,bir1;c1,12.0,1,0,,10-OCT-08 to 17-OCT-08
+SPM0059,BE-JFM-084,2,Olivine,1,0,0,0,"(30.00,0.00)",75-106 um,bir1;c1,12.0,1,0,,10-OCT-08 to 16-OCT-08
+SPM0060,BE-JFM-085,2,Olivine,1,0,0,0,"(30.00,0.00)",106-125 um,bir1;c1,12.0,1,0,,14-OCT-08 to 16-OCT-08
+SPM0061,BE-JFM-086,2,Olivine,1,0,0,0,"(30.00,0.00)",125-150 um,bir1;c1,12.0,1,0,,14-OCT-08 to 16-OCT-08
+SPM0062,BE-JFM-087,2,Olivine,1,0,0,0,"(30.00,0.00)",150-250 um,bir1;c1,12.0,1,0,,14-OCT-08 to 16-OCT-08
+SPM0063,BE-JFM-088,2,Olivine,1,0,0,0,"(30.00,0.00)",250-500 um,bir1;c1,12.0,1,0,,14-OCT-08 to 16-OCT-08
+SPM0064,BE-JFM-164,3,Olivine,1,0,0,0,"(30.00,0.00)",125-250 um,bir1;c1,13.0,2,0,,08-DEC-09 to 9-DEC-09
+SPM0065,CA-EAC-010,1,Calcite,1,0,0,0,"(30.00,0.00)",<45 um,ca,9.0,0,0,,05-AUG-97 to 05-AUG-97
+SPM0066,CB-EAC-003-A,2,Dolomite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,9.5,1,0,,25-DEC-98 to 29-DEC-98
+SPM0067,CB-EAC-003-B,2,Dolomite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",45-90 um;fraction b (45-90 um),cb,9.5,1,0,,25-DEC-98 to 29-DEC-98
+SPM0068,CB-EAC-009-A,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,9.5,1,0,,30-DEC-98 to 5-JAN-99
+SPM0069,CB-EAC-009-B,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",45-90 um;fraction b (45-90 um),cb,9.5,1,0,,30-DEC-98 to 5-JAN-99
+SPM0070,CB-EAC-010-A,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,9.5,1,0,,30-DEC-98 to 5-JAN-99
+SPM0071,CB-EAC-011-A,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,9.5,1,0,,30-DEC-98 to 5-JAN-99
+SPM0072,CB-EAC-012-A,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,11.0,1,0,,05-JAN-99 to 7-JAN-99
+SPM0073,CB-EAC-012-B,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",45-90 um;fraction b (45-90 um),cb,11.0,1,0,,05-JAN-99 to 7-JAN-99
+SPM0074,CB-EAC-013-A,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 um;fraction a (<45 um),ca,11.0,1,0,,05-JAN-99 to 7-JAN-99
+SPM0075,CB-EAC-013-B,2,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",45-90 um;fraction b (45-90 um),cb,11.0,1,0,,6-JAN-99 to 7-JAN-99
+SPM0076,CB-EAC-017-A,3,Dolomite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a;fraction a (<45 um),bmr1;ca,11.3,2,0,,03-DEC-03 to 5-DEC-03
+SPM0077,CB-EAC-063-A,2,Calcite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a (<45 um),bir1;ca,12.0,1,0,,19-AUG-11 to 23-AUG-11
+SPM0078,CB-EAC-064-A,2,Calcite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a (<45 um),bir1;ca,12.0,1,0,,19-AUG-11 to 23-AUG-11
+SPM0079,CB-EAC-065-A,2,Calcite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a (<45 um),bir1;ca,12.0,1,0,,22-AUG-11 to 24-AUG-11
+SPM0080,CB-EAC-077-A,2,Calcite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a (<45 um),bir1;ca,12.0,1,0,,26-AUG-11 to 30-AUG-11
+SPM0081,CB-EAC-078-A,2,Calcite,1,0,0,0,"(30.00,0.00)",<45 um;fraction a (<45 um),bir1;ca,12.0,1,0,,26-AUG-11 to 30-AUG-11
+SPM0082,CB-MSG-099,2,Calcite,1,0,0,0,"(30.00,0.00)",65 um,bir2,9.0,0,0,,22-OCT-13 to 24-OCT-13
+SPM0083,CC-JFM-005-B,1,Dolomite,1,0,0,0,"(30.00,0.00)",25-75 um,cb,9.0,0,0,,22-JUL-97 to 22-JUL-97
+SPM0084,CK-JFM-001,2,Olivine,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"11-JUN-19, to 17-JUN-19"
+SPM0085,CK-JFM-002,2,Olivine,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"11-JUN-19, to 17-JUN-19"
+SPM0086,CK-JFM-006,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19, to 17-JUN-19"
+SPM0087,CK-JFM-007,2,Diopside,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19, to 17-JUN-19"
+SPM0088,CK-JFM-022,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19 to 29-JUL-19,"
+SPM0089,CK-JFM-023,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19 to 29-JUL-19,"
+SPM0090,CK-JFM-024,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19 to 29-JUL-19,"
+SPM0091,CK-JFM-025,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19 to 29-JUL-19,"
+SPM0092,CK-JFM-026,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"13-JUN-19 to 30-JUL-19,"
+SPM0093,CK-JFM-027,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"19-JUN-19 to 30-JUL-19,"
+SPM0094,CK-JFM-028,2,Augite,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"19-JUN-19 to 30-JUL-19,"
+SPM0095,CK-JFM-030,3,Diopside,1,0,0,0,,38-63 um,bmr1;c1,5.7,2,0,,"01-AUG-19, to 31-JUL-19,"
+SPM0096,CK-JFM-031,3,Diopside,1,0,0,0,,38-63 um,bmr1;c1,5.7,2,0,,"01-AUG-19, to 31-JUL-19,"
+SPM0097,CK-JFM-032,3,Diopside,1,0,0,0,,38-63 um,bmr1;c1,5.7,2,0,,"01-AUG-19, to 31-JUL-19,"
+SPM0098,CK-JFM-033,2,Diopside,1,0,0,0,,38-63 um,bmr1;c1,5.5,1,0,,"19-JUN-19 to 31-JUL-19,"
+SPM0099,CK-JFM-034,1,Diopside,1,0,0,0,,,bmr1,5.0,0,0,,19-JUN-19 to 19-JUN-19
+SPM0100,CK-JFM-035,1,Diopside,1,0,0,0,,,bmr1,5.0,0,0,,19-JUN-19 to 19-JUN-19
+SPM0101,CK-JFM-036,1,Diopside,1,0,0,0,,,bmr1,5.0,0,0,,19-JUN-19 to 19-JUN-19
+SPM0102,CK-JFM-037,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"15-AUG-19, to 15-AUG-19,"
+SPM0103,CK-JFM-038,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"15-AUG-19, to 15-AUG-19,"
+SPM0104,CK-JFM-039,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"15-AUG-19, to 15-AUG-19,"
+SPM0105,CK-JFM-040,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"15-AUG-19, to 15-AUG-19,"
+SPM0106,CK-JFM-041,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"16-AUG-19, to 16-AUG-19,"
+SPM0107,CK-JFM-042,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"16-AUG-19, to 16-AUG-19,"
+SPM0108,CK-JFM-043,1,Augite,1,0,0,0,,38-63 um,c1,6.0,1,0,,"16-AUG-19, to 16-AUG-19,"
+SPM0109,CK-JFM-044,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"19-AUG-19, to 19-AUG-19,"
+SPM0110,CK-JFM-045,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"19-AUG-19, to 19-AUG-19,"
+SPM0111,CK-JFM-046,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"19-AUG-19, to 19-AUG-19,"
+SPM0112,CK-JFM-047,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"19-AUG-19, to 19-AUG-19,"
+SPM0113,CK-JFM-048,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"20-AUG-19, to 20-AUG-19,"
+SPM0114,CK-JFM-049,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"20-AUG-19, to 20-AUG-19,"
+SPM0115,CK-JFM-050,1,Diopside,1,0,0,0,,38-63 um,c1,6.0,1,0,,"20-AUG-19, to 20-AUG-19,"
+SPM0116,CK-JFM-051,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"21-AUG-19, to 21-AUG-19,"
+SPM0117,CK-JFM-052,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"21-AUG-19, to 21-AUG-19,"
+SPM0118,CK-JFM-053,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"21-AUG-19, to 21-AUG-19,"
+SPM0119,CK-JFM-054,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"21-AUG-19, to 21-AUG-19,"
+SPM0120,CK-JFM-055,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"22-AUG-19, to 22-AUG-19,"
+SPM0121,CK-JFM-056,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"22-AUG-19, to 22-AUG-19,"
+SPM0122,CK-JFM-057,2,Augite;Diopside,2,2,2,1,,38-63 um,c1,6.0,2,0,multiple mineral directories: Augite;Diopside; 2 exact duplicate files,"22-AUG-19, to 22-AUG-19,"
+SPM0123,CK-JFM-058,1,Olivine,1,0,0,0,,,bmr1,5.0,0,0,,12-DEC-19 to 12-DEC-19
+SPM0124,CK-JFM-067,2,Olivine,1,0,0,0,,<32 um,bmr1;c1,5.5,1,0,,"09-JUN-21 to 22-NOV-21,"
+SPM0125,CK-JFM-078,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"10-JUN-21 to 23-NOV-21,"
+SPM0126,CK-JFM-079,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"10-JUN-21 to 23-NOV-21,"
+SPM0127,CK-JFM-080,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"10-JUN-21 to 23-NOV-21,"
+SPM0128,CK-JFM-081,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"10-JUN-21 to 23-NOV-21,"
+SPM0129,CK-JFM-082,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"11-JUN-21 to 23-NOV-21,"
+SPM0130,CK-JFM-083,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"11-JUN-21 to 23-NOV-21,"
+SPM0131,CK-JFM-084,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"11-JUN-21 to 23-NOV-21,"
+SPM0132,CK-JFM-085,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"11-JUN-21 to 23-NOV-21,"
+SPM0133,CK-JFM-086,2,Enstatite,1,0,0,0,,,bmr1;c1,5.5,1,0,,"11-JUN-21 to 23-NOV-21,"
+SPM0134,CK-JFM-087,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,11-JUN-21 to 11-JUN-21
+SPM0135,CK-JFM-088,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,11-JUN-21 to 11-JUN-21
+SPM0136,CK-JFM-089,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,11-JUN-21 to 11-JUN-21
+SPM0137,CK-JFM-090,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,11-JUN-21 to 11-JUN-21
+SPM0138,CK-JFM-091,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,11-JUN-21 to 11-JUN-21
+SPM0139,CK-JFM-092,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0140,CK-JFM-093,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0141,CK-JFM-094,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0142,CK-JFM-095,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0143,CK-JFM-096,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0144,CK-JFM-097,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0145,CK-JFM-098,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0146,CK-JFM-099,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0147,CK-JFM-100,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0148,CK-JFM-101,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0149,CK-JFM-102,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0150,CK-JFM-103,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0151,CK-JFM-104,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,13-JUN-21 to 13-JUN-21
+SPM0152,CK-JFM-105,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0153,CK-JFM-106,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0154,CK-JFM-107,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0155,CK-JFM-108,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0156,CK-JFM-109,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0157,CK-JFM-110,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0158,CK-JFM-111,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0159,CK-JFM-112,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0160,CK-JFM-113,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0161,CK-JFM-114,1,Enstatite,1,0,0,0,,,bmr1,5.0,0,0,,15-JUN-21 to 15-JUN-21
+SPM0162,CP-JJG-001-A,2,Augite,1,0,0,0,"(30.00,0.00)",fraction a (<25 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 30-JUL-13
+SPM0163,CP-JJG-001-B,2,Augite,1,0,0,0,"(30.00,0.00)",fraction b (25-45 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 30-JUL-13
+SPM0164,CP-JJG-001-C,2,Augite,1,0,0,0,"(30.00,0.00)",fraction c (45-53 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 30-JUL-13
+SPM0165,CP-JJG-001-D,2,Augite,1,0,0,0,"(30.00,0.00)",fraction d (53-63 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 30-JUL-13
+SPM0166,CP-JJG-001-E,2,Augite,1,0,0,0,"(30.00,0.00)",fraction e (63-75 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 31-JUL-13
+SPM0167,CP-JJG-001-F,2,Augite,1,0,0,0,"(30.00,0.00)",fraction f (75-150 um),bmr1;c1,12.0,1,0,,1-AUG-13 to 31-JUL-13
+SPM0168,CY-PLH-005,1,Calcite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,10-JUL-90 to 10-JUL-90
+SPM0169,CY-PLH-007,1,Dolomite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,16-JUL-90 to 16-JUL-90
+SPM0170,CY-PLH-013,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,16-JUL-90 to 16-JUL-90
+SPM0171,CZ-C1M-001,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,05-MAY-15 to 7-MAY-15
+SPM0172,CZ-C1M-001-CF,2,Muscovite,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,2-JUL-15 to 30-JUN-15
+SPM0173,CZ-C1M-002,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,05-MAY-15 to 7-MAY-15
+SPM0174,CZ-C1M-002-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,2-JUL-15 to 30-JUN-15
+SPM0175,DD-AHT-065,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,2-JUN-05 to 2-JUN-05
+SPM0176,DD-AHT-066,1,Olivine,1,0,0,0,"(30.00,0.00)",45-125 um,bir1,9.0,0,0,,1-JUN-05 to 1-JUN-05
+SPM0177,DD-AHT-109,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,30-NOV-06 to 30-NOV-06
+SPM0178,DD-MDD-001,2,Olivine,1,0,0,0,"(30.00,0.00)",,bir1;c1,12.0,1,0,,22-NOV-02 to 8-APR-05
+SPM0179,DD-MDD-002,3,Olivine,1,0,0,0,"(30.00,0.00)",<100 um,bir1;bir2;c1,11.0,1,0,,26-NOV-02 to 4-DEC-02
+SPM0180,DD-MDD-003,3,Augite,1,0,0,0,"(30.00,0.00)",<100 um,bir1;bir2;c1,11.0,1,0,,26-NOV-02 to 4-DEC-02
+SPM0181,DD-MDD-009,2,Olivine,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,27-NOV-02 to 6-DEC-02
+SPM0182,DD-MDD-012,2,Olivine,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,10-DEC-02 to 12-DEC-02
+SPM0183,DD-MDD-014,2,Olivine,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,12-DEC-02 to 12-DEC-02
+SPM0184,DD-MDD-018,4,Augite;Olivine,2,4,4,1,"(30.00,0.00)",21 um,bir2;c1,12.0,2,0,multiple mineral directories: Augite;Olivine; 4 exact duplicate files,21-NOV-03 to 25-NOV-03
+SPM0185,DD-MDD-032,2,Olivine,1,0,0,0,"(30.00,0.00)",2 um,bir1;c1,12.0,1,0,,6-APR-04 to 7-APR-04
+SPM0186,DD-MDD-033,1,Olivine,1,0,0,0,"(30.00,0.00)",,bir1,9.0,0,0,,28-APR-04 to 28-APR-04
+SPM0187,DD-MDD-047,1,Olivine,1,0,0,0,"(30.00,0.00)",,bir1,9.0,0,0,,25-MAY-04 to 25-MAY-04
+SPM0188,DD-MDD-048,1,Olivine,1,0,0,0,"(30.00,0.00)",,bir1,9.0,0,0,,25-MAY-04 to 25-MAY-04
+SPM0189,DD-MDD-049,1,Olivine,1,0,0,0,"(30.00,0.00)",9 um,bir1,9.0,0,0,,20-AUG-04 to 20-AUG-04
+SPM0190,DD-MDD-050,1,Olivine,1,0,0,0,"(30.00,0.00)",9 um,bir1,9.0,0,0,,20-AUG-04 to 20-AUG-04
+SPM0191,DD-MDD-051,1,Olivine,1,0,0,0,"(30.00,0.00)",9 um,bir1,9.0,0,0,,20-AUG-04 to 20-AUG-04
+SPM0192,DD-MDD-052,1,Olivine,1,0,0,0,"(30.00,0.00)",9 um,bir1,9.0,0,0,,20-AUG-04 to 20-AUG-04
+SPM0193,DD-MDD-053,1,Olivine,1,0,0,0,"(30.00,0.00)",19 um,bir1,9.0,0,0,,24-AUG-04 to 24-AUG-04
+SPM0194,DD-MDD-054,1,Olivine,1,0,0,0,"(30.00,0.00)",9 um,bir1,9.0,0,0,,24-AUG-04 to 24-AUG-04
+SPM0195,DD-MDD-060,1,Olivine,1,0,0,0,"(30.00,0.00)",25 um,bir1,9.0,0,0,,1-MAR-05 to 1-MAR-05
+SPM0196,DD-MDD-062,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,7-APR-05 to 7-APR-05
+SPM0197,DD-MDD-070,2,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,10-AUG-05 to 12-AUG-05
+SPM0198,DD-MDD-071,2,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,10-AUG-05 to 12-AUG-05
+SPM0199,DD-MDD-072,2,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,10-AUG-05 to 12-AUG-05
+SPM0200,DD-MDD-073,2,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,10-AUG-05 to 12-AUG-05
+SPM0201,DD-MDD-074,2,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,10-FEB-06 to 31-AUG-05
+SPM0202,DD-MDD-076,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,15-DEC-05 to 15-DEC-05
+SPM0203,DD-MDD-077,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,15-DEC-05 to 15-DEC-05
+SPM0204,DD-MDD-078,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,15-DEC-05 to 15-DEC-05
+SPM0205,DD-MDD-079,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,16-DEC-05 to 16-DEC-05
+SPM0206,DD-MDD-080,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,16-DEC-05 to 16-DEC-05
+SPM0207,DD-MDD-083,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,20-DEC-05 to 20-DEC-05
+SPM0208,DD-MDD-084,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,20-DEC-05 to 20-DEC-05
+SPM0209,DD-MDD-099,1,Olivine,1,0,0,0,"(30.00,0.00)",125-250 um,bir1,9.0,0,0,,21-APR-06 to 21-APR-06
+SPM0210,DD-MDD-100,1,Olivine,1,0,0,0,"(30.00,0.00)",<250 um,bir1,9.0,0,0,,25-APR-06 to 25-APR-06
+SPM0211,DD-MDD-101,1,Olivine,1,0,0,0,"(30.00,0.00)",<125 um,bir1,9.0,0,0,,14-APR-06 to 14-APR-06
+SPM0212,DD-MDD-121,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,20-MAY-09 to 20-MAY-09
+SPM0213,DD-MDD-122,1,Olivine,1,0,0,0,"(30.00,0.00)",<45 um,bir1,9.0,0,0,,20-MAY-09 to 20-MAY-09
+SPM0214,DD-MDD-152,2,Diopside,1,0,0,0,,5 um,bir1;c1,5.5,1,0,,"18-DEC-18, to 20-Dec-18,"
+SPM0215,DD-MDD-153,1,Enstatite,1,0,0,0,,4 um,bir1,5.0,0,0,,"20-Dec-18, to 20-Dec-18,"
+SPM0216,DD-MDD-154,1,Enstatite,1,0,0,0,,5 um,bir1,5.0,0,0,,"20-Dec-18, to 20-Dec-18,"
+SPM0217,DD-MDD-163,1,Enstatite,1,0,0,0,,75 um,bir1,5.0,0,0,,"27-Dec-18, to 27-Dec-18,"
+SPM0218,DD-MDD-166,1,Enstatite,1,0,0,0,,7 um,bir1,5.0,0,0,,"28-Dec-18, to 28-Dec-18,"
+SPM0219,DD-MDD-167,1,Enstatite,1,0,0,0,,7 um,bir1,5.0,0,0,,"28-Dec-18, to 28-Dec-18,"
+SPM0220,DH-CMP-015,1,Albite,1,0,0,0,"(30.00,0.00)",<25 um,c1,15.0,1,0,,01-FEB-12 to 01-FEB-12
+SPM0221,DH-CMP-024,1,Albite,1,0,0,0,"(30.00,0.00)",<25 um,c1,15.0,1,0,,02-MAY-12 to 02-MAY-12
+SPM0222,DH-MBW-003,2,Quartz,1,0,0,0,"(30.00,0.00)",<30 um,bmr1;c1,12.0,1,0,,20-OCT-09 to 22-OCT-09
+SPM0223,DH-MBW-004,2,Augite,1,0,0,0,"(30.00,0.00)",<30 um,bmr1;c1,12.0,1,0,,20-OCT-09 to 22-OCT-09
+SPM0224,DH-MBW-005,1,Enstatite,1,0,0,0,"(30.00,0.00)",<30 um,bmr1,9.0,0,0,,22-OCT-09 to 22-OCT-09
+SPM0225,EC-EAC-004,1,Calcite,1,0,0,0,"(30.00,0.00)",<45 um,ca,15.0,1,0,,12-FEB-02 to 12-FEB-02
+SPM0226,EC-EAC-008,1,Rutile,1,0,0,0,"(30.00,0.00)",<45 um,ca,15.0,1,0,,27-FEB-02 to 27-FEB-02
+SPM0227,EF-CMP-003-A,1,Olivine,1,0,0,0,,fraction a (<25 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0228,EF-CMP-003-B,1,Olivine,1,0,0,0,,fraction b (25-45 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0229,EF-CMP-003-C,1,Olivine,1,0,0,0,,fraction c (45-63 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0230,EF-CMP-003-D,1,Olivine,1,0,0,0,,fraction d (63-125 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0231,EF-CMP-003-E,1,Olivine,1,0,0,0,,fraction e (125-250 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0232,EF-CMP-003-F,1,Olivine,1,0,0,0,,fraction f (250-500 um),bmr1,5.0,0,0,,11-AUG-22 to 11-AUG-22
+SPM0233,ER-TGS-001,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0234,ER-TGS-001-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0235,ER-TGS-002,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,08-JUL-09 to 08-JUL-09
+SPM0236,ER-TGS-002-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0237,ER-TGS-003,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0238,ER-TGS-003-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0239,ER-TGS-004,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,08-JUL-09 to 08-JUL-09
+SPM0240,ER-TGS-004-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,17-NOV-06 to 17-NOV-06
+SPM0241,ER-TGS-005,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,21-NOV-06 to 21-NOV-06
+SPM0242,ER-TGS-005-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,21-NOV-06 to 21-NOV-06
+SPM0243,ER-TGS-006,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,08-JUL-09 to 08-JUL-09
+SPM0244,ER-TGS-006-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,21-NOV-06 to 21-NOV-06
+SPM0245,ER-TGS-007,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,21-NOV-06 to 21-NOV-06
+SPM0246,ER-TGS-007-P,1,Augite,1,0,0,0,"(30.00,0.00)",preparation p (<106 um),c1,15.0,1,0,,21-NOV-06 to 21-NOV-06
+SPM0247,ER-TGS-008,1,Augite,1,0,0,0,"(30.00,0.00)",<106 um,c1,15.0,1,0,,08-JUL-09 to 08-JUL-09
+SPM0248,EV-C1M-002,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,07-APR-15 to 10-APR-15
+SPM0249,EV-C1M-002-CF,2,Quartz,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,09-APR-15 to 10-APR-15
+SPM0250,EV-C1M-003,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,07-APR-15 to 10-APR-15
+SPM0251,EV-C1M-003-CF,2,Quartz,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,09-APR-15 to 10-APR-15
+SPM0252,EV-C1M-005,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,07-APR-15 to 10-APR-15
+SPM0253,EV-C1M-005-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,11-JUN-15 to 15-JUN-15
+SPM0254,EV-C1M-006,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,07-APR-15 to 10-APR-15
+SPM0255,EV-C1M-006-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,11-JUN-15 to 15-JUN-15
+SPM0256,EV-C1M-009,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,03-APR-15 to 10-APR-15
+SPM0257,EV-C1M-009-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,11-JUN-15 to 15-JUN-15
+SPM0258,EV-C1M-010,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,03-APR-15 to 10-APR-15
+SPM0259,EV-C1M-010-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,11-JUN-15 to 15-JUN-15
+SPM0260,EV-C1M-011,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,03-APR-15 to 10-APR-15
+SPM0261,EV-C1M-011-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,12-JUN-15 to 17-JUN-15
+SPM0262,EV-C1M-012,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,03-APR-15 to 10-APR-15
+SPM0263,EV-C1M-012-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,12-JUN-15 to 17-JUN-15
+SPM0264,EV-C1M-013,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,14-APR-15 to 16-APR-15
+SPM0265,EV-C1M-013-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,12-JUN-15 to 17-JUN-15
+SPM0266,EV-C1M-016,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,14-APR-15 to 16-APR-15
+SPM0267,EV-C1M-016-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,12-JUN-15 to 17-JUN-15
+SPM0268,EV-C1M-017,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,14-APR-15 to 16-APR-15
+SPM0269,EV-C1M-017-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,17-JUN-15 to 19-JUN-15
+SPM0270,EV-C1M-019,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,14-APR-15 to 16-APR-15
+SPM0271,EV-C1M-019-CF,2,Quartz,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,09-APR-15 to 10-APR-15
+SPM0272,EV-C1M-021,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,15-APR-15 to 20-APR-15
+SPM0273,EV-C1M-021-CF,2,Quartz,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,17-JUN-15 to 19-JUN-15
+SPM0274,EV-C1M-025,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,15-APR-15 to 20-APR-15
+SPM0275,EV-C1M-025-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,17-JUN-15 to 19-JUN-15
+SPM0276,EV-C1M-026,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,15-APR-15 to 20-APR-15
+SPM0277,EV-C1M-026-CF,2,Quartz,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,17-JUN-15 to 19-JUN-15
+SPM0278,EV-C1M-027,2,Quartz,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,15-APR-15 to 20-APR-15
+SPM0279,EV-C1M-027-CF,4,Muscovite;Quartz,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Quartz; 4 exact duplicate files,17-JUN-15 to 19-JUN-15
+SPM0280,FB-CMP-010,2,Quartz,1,0,0,0,"(30.00,0.00)",,c1;c2,9.0,0,0,,13-APR-92 to 13-APR-92
+SPM0281,FB-CMP-012,4,Spinel,1,0,0,0,"(30.00,0.00)",,c1;c2;c3,9.0,0,0,,12-MAR-92 to 12-MAR-92
+SPM0282,FB-CMP-013,2,Calcite,1,0,0,0,"(30.00,0.00)",,c1;c2,9.0,0,0,,13-APR-92 to 13-APR-92
+SPM0283,FB-JFM-008-1,1,Spinel,1,0,0,0,"(30.00,30.00)",,n,9.0,0,0,,20-JUL-92 to 20-JUL-92
+SPM0284,FB-JFM-008-P,2,Spinel,1,0,0,0,"(30.00,0.00);(30.00,30.00)",preparation p,n,9.0,0,0,,20-JUL-92 to 23-JUL-92
+SPM0285,FB-JFM-026-Q,1,Quartz,1,0,0,0,"(30.00,30.00)",,n,9.0,0,0,,28-JUL-92 to 28-JUL-92
+SPM0286,FB-JFM-026-SP,1,Spinel,1,0,0,0,"(30.00,30.00)",,n,9.0,0,0,,28-JUL-92 to 28-JUL-92
+SPM0287,FB-JFM-031-3CP,1,Diopside,1,0,0,0,"(30.00,0.00)",preparation p (125-250 um),c1,15.0,1,0,,3-AUG-04 to 3-AUG-04
+SPM0288,FB-JFM-048,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,05-APR-93 to 05-APR-93
+SPM0289,GN-EAC-004,1,Andradite,1,0,0,0,"(30.00,0.00)",<45 um,ca,9.0,0,0,,05-AUG-97 to 05-AUG-97
+SPM0290,GN-EJH-010-A,1,Andradite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),c1,15.0,1,0,,15-FEB-06 to 15-FEB-06
+SPM0291,GR-CMP-001,1,Calcite,1,0,0,0,"(30.00,0.00)",<50 UM,c1,9.0,0,0,,8-DEC-92 to 8-DEC-92
+SPM0292,HM-JFM-001,1,Calcite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,03-DEC-96 to 03-DEC-96
+SPM0293,HM-JFM-002,1,Calcite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,03-DEC-96 to 03-DEC-96
+SPM0294,JA-CMP-001,1,Hypersthene,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,15-JUN-89 to 15-JUN-89
+SPM0295,JA-CMP-002-A,1,Calcite,1,0,1,0,"(30.00,0.00)",fraction a,c1,9.0,0,0,,16-JUN-89 to 16-JUN-89
+SPM0296,JA-CMP-002-B,1,Hypersthene,1,0,1,0,"(30.00,0.00)",fraction b,c1,9.0,0,0,,16-JUN-89 to 16-JUN-89
+SPM0297,JA-CMP-003,1,Hypersthene,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,16-JUN-89 to 16-JUN-89
+SPM0298,JA-CMP-007,1,Hypersthene,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,16-JUN-89 to 16-JUN-89
+SPM0299,JA-CMP-015,1,Hypersthene,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,21-JUN-89 to 21-JUN-89
+SPM0300,JB-CMP-140,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0301,JB-CMP-141,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0302,JB-CMP-142,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0303,JB-CMP-143,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0304,JB-CMP-144,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0305,JB-CMP-145,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,28-SEP-95 to 28-SEP-95
+SPM0306,JB-CMP-146,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0307,JB-CMP-147,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0308,JB-CMP-148,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0309,JB-CMP-149,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0310,JB-CMP-150,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0311,JB-CMP-151,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-SEP-95 to 30-SEP-95
+SPM0312,JB-CMP-152,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,01-OCT-95 to 01-OCT-95
+SPM0313,JB-CMP-153,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,01-OCT-95 to 01-OCT-95
+SPM0314,JB-CMP-154,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,01-OCT-95 to 01-OCT-95
+SPM0315,JB-CMP-155,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,01-OCT-95 to 01-OCT-95
+SPM0316,JB-CMP-156,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,01-OCT-95 to 01-OCT-95
+SPM0317,JB-JLB-214,1,Olivine,1,0,0,0,"(30.00,30.00)",<125 um,397,10.0,0,0,,25-MAR-97 to 25-MAR-97
+SPM0318,JB-JLB-214-P,1,Olivine,1,0,0,0,"(30.00,30.00)",preparation p (<45um),397,10.0,0,0,,25-MAR-97 to 25-MAR-97
+SPM0319,JB-JLB-224,1,Apatite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,09-APR-97 to 09-APR-97
+SPM0320,JB-JLB-235,1,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,c1,9.0,0,0,,16-APR-97 to 16-APR-97
+SPM0321,JB-JLB-273-A,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;c1,12.0,1,0,,13-NOV-12 to 16-NOV-12
+SPM0322,JB-JLB-273-D,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction d;fraction d (0 um),bir1;c1,12.0,1,0,,12-DEC-12 to 30-JAN-13
+SPM0323,JB-JLB-274-A,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;c1,12.0,1,0,,13-NOV-12 to 16-NOV-12
+SPM0324,JB-JLB-274-D,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction d;fraction d (0 um),bir1;c1,12.0,1,0,,12-DEC-12 to 30-JAN-13
+SPM0325,JB-JLB-275-A,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;c1,12.0,1,0,,13-NOV-12 to 16-NOV-12
+SPM0326,JB-JLB-275-D,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction d;fraction d (0 um),bir1;c1,12.0,1,0,,12-DEC-12 to 30-JAN-13
+SPM0327,JB-JLB-290,2,Calcite,1,0,0,0,"(30.00,0.00)",<125 um,c1;c2,15.0,2,0,,11-MAR-04 to 11-MAR-04
+SPM0328,JB-JLB-320,3,Apatite,1,0,0,0,"(30.00,0.00)",<90 um,bir1;c1;c2,11.0,1,0,,14-DEC-12 to 30-JAN-13
+SPM0329,JB-JLB-321,1,Apatite,1,0,0,0,"(30.00,0.00)",90-125 um,c1,9.0,0,0,,22-APR-98 to 22-APR-98
+SPM0330,JB-JLB-322,3,Apatite,1,0,0,0,"(30.00,0.00)",125-180 um,bir1;c1;c2,11.0,1,0,,14-DEC-12 to 30-JAN-13
+SPM0331,JB-JLB-324,2,Apatite,1,0,0,0,"(30.00,0.00)",250-355 um,bir1;c1,12.0,1,0,,14-DEC-12 to 30-JAN-13
+SPM0332,JB-JLB-549,8,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",0-63 um;<125 um;<63 um,1101;bir1;c2,10.5,2,0,,05-DEC-01 to 6-OCT-02
+SPM0333,JB-JLB-550,7,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",63-90 um,1101;bir1;c2,9.9,1,0,,06-DEC-01 to 6-OCT-02
+SPM0334,JB-JLB-551,1,Calcite,1,0,0,0,"(30.00,30.00)",,1101,8.0,0,0,,30-NOV-01 to 30-NOV-01
+SPM0335,JB-JLB-552,3,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",125-180 um,1101;c2,11.0,1,0,,06-DEC-01 to 30-NOV-81
+SPM0336,JB-JLB-553,1,Calcite,1,0,0,0,"(30.00,30.00)",,1101,8.0,0,0,,30-NOV-01 to 30-NOV-01
+SPM0337,JB-JLB-554,3,Calcite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",250-355 um,1101;c2,11.0,1,0,,06-DEC-01 to 30-NOV-81
+SPM0338,JB-JLB-555,1,Calcite,1,0,0,0,"(30.00,30.00)",,1101,9.0,0,0,,30-NOV-01 to 30-NOV-01
+SPM0339,JB-JLB-587,2,Albite,1,0,0,0,"(30.00,0.00)",<125 um,bir1;c1,12.0,1,0,,27-SEP-11 to 30-SEP-11
+SPM0340,JB-JLB-593,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,15.0,1,0,,06-MAR-03 to 06-MAR-03
+SPM0341,JB-JLB-594,1,Quartz,1,0,0,0,"(30.00,0.00)",,c1,15.0,1,0,,10-MAR-03 to 10-MAR-03
+SPM0342,JB-JLB-608-J,2,Dolomite,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,2-OCT-09 to 30-SEP-09
+SPM0343,JB-JLB-608-K,2,Dolomite,1,0,0,0,"(30.00,0.00)",45-75 um,bir1;c1,12.0,1,0,,2-OCT-09 to 30-SEP-09
+SPM0344,JB-JLB-608-L,2,Dolomite,1,0,0,0,"(30.00,0.00)",75-125 um,bir1;c1,12.0,1,0,,01-OCT-09 to 2-OCT-09
+SPM0345,JB-JLB-608-M,2,Dolomite,1,0,0,0,"(30.00,0.00)",125 um,bir1;c1,12.0,1,0,,01-OCT-09 to 2-OCT-09
+SPM0346,JB-JLB-619-A,1,Quartz,1,0,0,0,"(30.00,0.00)",fraction a (<63 um),c1,15.0,1,0,,25-NOV-03 to 25-NOV-03
+SPM0347,JB-JLB-619-B,1,Quartz,1,0,0,0,"(30.00,0.00)",fraction b (63-90 um),c1,15.0,1,0,,25-NOV-03 to 25-NOV-03
+SPM0348,JB-JLB-779,2,Dolomite,1,0,0,0,"(30.00,0.00)",<125 um,bir1;c1,12.0,1,0,,25-MAR-08 to 28-MAR-08
+SPM0349,JB-JLB-825,2,Calcite,1,0,0,0,"(30.00,0.00)",4 um,bir1;c1,12.0,1,0,,17-DEC-08 to 23-DEC-08
+SPM0350,JB-JLB-826,2,Calcite,1,0,0,0,"(30.00,0.00)",4 um,bir1;c1,12.0,1,0,,17-DEC-08 to 23-DEC-08
+SPM0351,JB-JLB-827,2,Calcite,1,0,0,0,"(30.00,0.00)",8 um,bir1;c1,12.0,1,0,,17-DEC-08 to 23-DEC-08
+SPM0352,JB-JLB-A14-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<125 um),bir1,9.0,0,0,,22-SEP-10 to 22-SEP-10
+SPM0353,JB-JLB-A14-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (125 um),bir1,9.0,0,0,,22-SEP-10 to 22-SEP-10
+SPM0354,JB-JLB-A14-C,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction c (4 um),bir1,9.0,0,0,,22-SEP-10 to 22-SEP-10
+SPM0355,JB-JLB-A14-D,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction d (5 um),bir1,9.0,0,0,,22-SEP-10 to 22-SEP-10
+SPM0356,JB-JLB-A15,1,Enstatite,1,0,0,0,"(30.00,0.00)",2 um,bir1,9.0,0,0,,23-SEP-10 to 23-SEP-10
+SPM0357,JB-JLB-A16,1,Enstatite,1,0,0,0,"(30.00,0.00)",3 um,bir1,9.0,0,0,,23-SEP-10 to 23-SEP-10
+SPM0358,JB-JLB-A17,1,Enstatite,1,0,0,0,"(30.00,0.00)",0 um,bir1,9.0,0,0,,23-SEP-10 to 23-SEP-10
+SPM0359,JB-JLB-A18,1,Enstatite,1,0,0,0,"(30.00,0.00)",2 um,bir1,9.0,0,0,,23-SEP-10 to 23-SEP-10
+SPM0360,JB-JLB-A19,1,Enstatite,1,0,0,0,"(30.00,0.00)",3 um,bir1,9.0,0,0,,23-SEP-10 to 23-SEP-10
+SPM0361,JB-JLB-B83-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (20-45 um),bir1,9.0,0,0,,20-SEP-12 to 20-SEP-12
+SPM0362,JB-JLB-B83-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (63-90 um),bir1,9.0,0,0,,20-SEP-12 to 20-SEP-12
+SPM0363,JB-JLB-B83-C,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction c (125-150 um),bir1,9.0,0,0,,20-SEP-12 to 20-SEP-12
+SPM0364,JB-JLB-B88,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,1-OCT-12 to 1-OCT-12
+SPM0365,JB-JLB-B89,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,1-OCT-12 to 1-OCT-12
+SPM0366,JB-JLB-B90,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,1-OCT-12 to 1-OCT-12
+SPM0367,JB-JLB-B91,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,1-OCT-12 to 1-OCT-12
+SPM0368,JB-JLB-B92,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,1-OCT-12 to 1-OCT-12
+SPM0369,JB-JLB-B93,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,2-OCT-12 to 2-OCT-12
+SPM0370,JB-JLB-B94,1,Enstatite,1,0,0,0,"(30.00,0.00)",63-90 um,bir1,9.0,0,0,,2-OCT-12 to 2-OCT-12
+SPM0371,JB-JLB-E57-A,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;c1,12.0,1,0,,02-AUG-13 to 8-AUG-13
+SPM0372,JB-JLB-E57-B,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction b (45-75 um),bir1;c1,12.0,1,0,,02-AUG-13 to 8-AUG-13
+SPM0373,JB-JLB-E57-C,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction c (75-90 um),bir1;c1,12.0,1,0,,02-AUG-13 to 8-AUG-13
+SPM0374,JB-JLB-E57-D,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction d (90-125 um),bir1;c1,12.0,1,0,,02-AUG-13 to 8-AUG-13
+SPM0375,JB-JLB-E57-E,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction e (125-250 um),bir1;c1,12.0,1,0,,05-AUG-13 to 8-AUG-13
+SPM0376,JB-JLB-E57-F,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction f (250 um),bir1;c1,12.0,1,0,,05-AUG-13 to 8-AUG-13
+SPM0377,JB-JLB-E58-A,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;c1,12.0,1,0,,06-AUG-13 to 14-AUG-13
+SPM0378,JB-JLB-E58-B,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction b (45-75 um),bir1;c1,12.0,1,0,,06-AUG-13 to 14-AUG-13
+SPM0379,JB-JLB-E58-C,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction c (75-90 um),bir1;c1,12.0,1,0,,06-AUG-13 to 14-AUG-13
+SPM0380,JB-JLB-E58-D,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction d (90-125 um),bir1;c1,12.0,1,0,,06-AUG-13 to 14-AUG-13
+SPM0381,JB-JLB-E58-E,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction e (125-250 um),bir1;c1,12.0,1,0,,05-AUG-13 to 14-AUG-13
+SPM0382,JB-JLB-E58-F,2,Calcite,1,0,0,0,"(30.00,0.00)",fraction f (250 um),bir1;c1,12.0,1,0,,05-AUG-13 to 14-AUG-13
+SPM0383,JB-JLB-E61-A,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1;bir2;c1,11.0,1,0,,19-AUG-13 to 23-AUG-13
+SPM0384,JB-JLB-E61-B,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction b (45-75 um),bir1;bir2;c1,11.0,1,0,,19-AUG-13 to 23-AUG-13
+SPM0385,JB-JLB-E61-C,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction c (75-90 um),bir1;bir2;c1,11.0,1,0,,19-AUG-13 to 23-AUG-13
+SPM0386,JB-JLB-E61-D,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction d (90-125 um),bir1;bir2;c1,11.0,1,0,,19-AUG-13 to 23-AUG-13
+SPM0387,JB-JLB-E61-E,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction e (125-250 um),bir1;bir2;c1,11.0,1,0,,20-AUG-13 to 23-AUG-13
+SPM0388,JB-JLB-E61-F,3,Dolomite,1,0,0,0,"(30.00,0.00)",fraction f (250 um),bir1;bir2;c1,11.0,1,0,,20-AUG-13 to 23-AUG-13
+SPM0389,JB-JLB-E65-A,1,Quartz,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bir1,9.0,0,0,,21-OCT-13 to 21-OCT-13
+SPM0390,JB-JLB-E72,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,18-OCT-13 to 30-OCT-13
+SPM0391,JB-JLB-E73,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,18-OCT-13 to 30-OCT-13
+SPM0392,JB-JLB-E74,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,21-OCT-13 to 30-OCT-13
+SPM0393,JB-JLB-E75,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,21-OCT-13 to 30-OCT-13
+SPM0394,JB-JLB-E76,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,21-OCT-13 to 30-OCT-13
+SPM0395,JB-JLB-E77,2,Dolomite,1,0,0,0,"(30.00,0.00)",90-150 um,bir1;c1,12.0,1,0,,21-OCT-13 to 30-OCT-13
+SPM0396,JG-J1G-013,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,16-NOV-12 to 20-NOV-12
+SPM0397,JG-J1G-014,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,16-NOV-12 to 20-NOV-12
+SPM0398,JG-J1G-015,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,16-NOV-12 to 20-NOV-12
+SPM0399,JG-J1G-016,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,17-JUL-13 to 19-JUL-13
+SPM0400,JG-J1G-017,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,17-JUL-13 to 19-JUL-13
+SPM0401,JG-J1G-018,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,17-JUL-13 to 19-JUL-13
+SPM0402,JG-J1G-019,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,22-JUL-13 to 23-JUL-13
+SPM0403,JG-J1G-020,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,22-JUL-13 to 23-JUL-13
+SPM0404,JG-J1G-021,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,bir1;c1,12.0,1,0,,22-JUL-13 to 23-JUL-13
+SPM0405,JT-JFM-102,1,Calcite,1,0,0,0,,45-75 um,c1,6.0,1,0,,"09-MAR-20, to 09-MAR-20,"
+SPM0406,JT-JFM-103,1,Calcite,1,0,0,0,,45-75 um,c1,6.0,1,0,,"09-MAR-20, to 09-MAR-20,"
+SPM0407,JT-JFM-104,1,Calcite,1,0,0,0,,45-75 um,c1,6.0,1,0,,"09-MAR-20, to 09-MAR-20,"
+SPM0408,JT-JFM-105,2,Calcite,1,0,0,0,,45-75 um,c1;c2,6.0,2,0,,"09-MAR-20, to 12-MAR-20,"
+SPM0409,KK-KRK-001,1,Olivine,1,0,0,0,,,bmr1,5.0,0,0,,11-FEB-09 to 11-FEB-09
+SPM0410,KK-KRK-002,1,Olivine,1,0,0,0,,,bmr1,5.0,0,0,,11-FEB-09 to 11-FEB-09
+SPM0411,KK-KRK-003,1,Olivine,1,0,0,0,"(30.00,0.00)",,bmr1,10.0,1,0,,1-APR-09 to 1-APR-09
+SPM0412,LR-CMP-014,2,Spinel,1,0,0,0,"(30.00,0.00)",<45 um,c1;c2,12.0,1,0,,18-FEB-08 to 30-OCT-97
+SPM0413,LS-CMP-008-A,4,Spinel,1,0,0,0,"(30.00,0.00)",,c1;c2;ca,9.8,3,0,,13-JUN-86 to 28-MAY-87
+SPM0414,LS-CMP-013,4,Spinel,1,0,0,0,"(20.00,0.00)",,c1;c2;c3,9.5,2,0,,06-APR-87 to 6-APR-87
+SPM0415,MB-CMP-004,1,Hypersthene,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,13-JUN-89 to 13-JUN-89
+SPM0416,ME-EAC-002,1,Apatite,1,0,0,0,"(30.00,0.00)",<45 um,ca,9.0,0,0,,15-OCT-97 to 15-OCT-97
+SPM0417,MG-EAC-006,1,Dolomite,1,0,0,0,"(30.00,0.00)",<45 um,ca,9.0,0,0,,26-SEP-97 to 26-SEP-97
+SPM0418,MG-JFM-028,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"03-Feb-22, to 31-JAN-22,"
+SPM0419,MG-JFM-029,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"03-Feb-22, to 31-JAN-22,"
+SPM0420,MG-JFM-032,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"01-FEB-22, to 03-Feb-22,"
+SPM0421,MG-JFM-033,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"01-FEB-22, to 04-Feb-22,"
+SPM0422,MG-JFM-034,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"01-FEB-22, to 04-Feb-22,"
+SPM0423,MG-JFM-038,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"03-FEB-22, to 07-Feb-22,"
+SPM0424,MG-JFM-039,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"03-FEB-22, to 07-Feb-22,"
+SPM0425,MG-JFM-040,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"03-FEB-22, to 07-Feb-22,"
+SPM0426,MG-JFM-043,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"21-MAR-22, to 23-Mar-22,"
+SPM0427,MG-JFM-044,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"21-MAR-22, to 23-Mar-22,"
+SPM0428,MG-JFM-045,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"21-MAR-22, to 23-Mar-22,"
+SPM0429,MG-JFM-046,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"21-MAR-22, to 23-Mar-22,"
+SPM0430,MG-JFM-047,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"21-MAR-22, to 23-Mar-22,"
+SPM0431,MG-JFM-048,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"22-MAR-22, to 24-Mar-22,"
+SPM0432,MG-JFM-049,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"22-MAR-22, to 24-Mar-22,"
+SPM0433,MG-JFM-050,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"22-MAR-22, to 24-Mar-22,"
+SPM0434,MG-JFM-051,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"22-MAR-22, to 24-Mar-22,"
+SPM0435,MG-JFM-052,2,Dolomite,1,0,0,0,,<125 um,bir1;c1,5.5,1,0,,"22-MAR-22, to 24-Mar-22,"
+SPM0436,MG-JFM-053,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"23-MAR-22, to 26-Mar-22,"
+SPM0437,MG-JFM-054,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"23-MAR-22, to 26-Mar-22,"
+SPM0438,MG-JFM-055,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"23-MAR-22, to 26-Mar-22,"
+SPM0439,MG-JFM-056,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"23-MAR-22, to 26-Mar-22,"
+SPM0440,MG-JFM-057,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"23-MAR-22, to 26-Mar-22,"
+SPM0441,MG-JFM-058,2,Dolomite,1,0,0,0,,<75 um,bir1;c1,5.5,1,0,,"06-Apr-22, to 31-MAR-22,"
+SPM0442,MM-MJR-031,2,Spinel,1,0,0,0,"(30.00,0.00);(30.00,30.00)",75-500 um,c1;m,12.5,2,0,,5-JUN-00 to 8-JUN-00
+SPM0443,MM-MJR-040,2,Spinel,1,0,0,0,"(30.00,0.00);(30.00,30.00)",75-250 um,c1;m,12.5,2,0,,13-JUN-00 to 13-JUN-00
+SPM0444,MM-MJR-041,2,Spinel,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<75 um,c1;m,12.5,2,0,,15-JUN-00 to 15-JUN-00
+SPM0445,MP-TXH-100-A,1,Enstatite,1,0,0,0,,fraction a (<45 um),bir2,5.0,0,0,,"22-Jun-22, to 22-Jun-22,"
+SPM0446,MP-TXH-100-B,1,Enstatite,1,0,0,0,,fraction b (<45 um),bir2,5.0,0,0,,"22-Jun-22, to 22-Jun-22,"
+SPM0447,MP-TXH-105,1,Enstatite,1,0,0,0,,<125 um,bir2,5.0,0,0,,"21-Jun-22, to 21-Jun-22,"
+SPM0448,MR-MSR-004,6,Spinel,1,0,0,0,"(10.00,0.00);(20.00,0.00);(30.00,0.00);(40.00,0.00);(50.00,0.00)",,c1;ca;cb;cc;cd;ce,15.0,6,0,,01-FEB-06 to 27-JAN-06
+SPM0449,MR-PGL-130,1,Rutile,1,0,0,0,"(30.00,0.00)",,c1,15.0,1,0,,16-APR-08 to 16-APR-08
+SPM0450,MT-CAG-316,1,Enstatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,23-FEB-17 to 23-FEB-17
+SPM0451,MT-CAG-316-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<125 um),bmr1,9.0,0,0,,24-FEB-17 to 24-FEB-17
+SPM0452,MT-CAG-316-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (125-500 um),bmr1,9.0,0,0,,27-FEB-17 to 27-FEB-17
+SPM0453,MT-CAG-317,1,Enstatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,23-FEB-17 to 23-FEB-17
+SPM0454,MT-CAG-317-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<125 um),bmr1,9.0,0,0,,24-FEB-17 to 24-FEB-17
+SPM0455,MT-CAG-317-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (125-500 um),bmr1,9.0,0,0,,27-FEB-17 to 27-FEB-17
+SPM0456,MT-JMS-323,1,Enstatite,1,0,0,0,"(30.00,0.00)",<45 um,bmr1,9.0,0,0,,20-JUL-17 to 20-JUL-17
+SPM0457,MT-JMS-324,1,Enstatite,1,0,0,0,"(30.00,0.00)",<45 um,bmr1,9.0,0,0,,20-JUL-17 to 20-JUL-17
+SPM0458,MT-MDL-361,2,Enstatite,1,0,0,0,,20 um;5 um,,5.0,0,0,,"21-Oct-20, to 22-Oct-20,"
+SPM0459,MT-MDL-361-A,1,Enstatite,1,0,0,0,,fraction a (<25 um),bir1,5.0,0,0,,"30-Mar-21, to 30-Mar-21,"
+SPM0460,MT-MDL-361-B,1,Enstatite,1,0,0,0,,fraction b (63-125 um),bir1,5.0,0,0,,"30-Mar-21, to 30-Mar-21,"
+SPM0461,MT-MDL-361-M,1,Enstatite,1,0,0,0,,<63 um,bir1,5.0,0,0,,"30-Mar-21, to 30-Mar-21,"
+SPM0462,MT-PFV-118-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bmr1,9.0,0,0,,2-NOV-10 to 2-NOV-10
+SPM0463,MT-PFV-118-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (<25 um),bmr1,10.0,1,0,,16-NOV-10 to 16-NOV-10
+SPM0464,MT-PFV-119-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bmr1,9.0,0,0,,2-NOV-10 to 2-NOV-10
+SPM0465,MT-PFV-119-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (<25 um),bmr1,10.0,1,0,,16-NOV-10 to 16-NOV-10
+SPM0466,MT-PFV-120-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bmr1,9.0,0,0,,2-NOV-10 to 2-NOV-10
+SPM0467,MT-PFV-120-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (<25 um),bmr1,10.0,1,0,,16-NOV-10 to 16-NOV-10
+SPM0468,MT-PFV-121-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bmr1,9.0,0,0,,2-NOV-10 to 2-NOV-10
+SPM0469,MT-PFV-121-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (<25 um),bmr1,10.0,1,0,,16-NOV-10 to 16-NOV-10
+SPM0470,MT-PFV-122-A,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction a (<45 um),bmr1,9.0,0,0,,4-NOV-10 to 4-NOV-10
+SPM0471,MT-PFV-122-B,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction b (<25 um),bmr1,10.0,1,0,,16-NOV-10 to 16-NOV-10
+SPM0472,MT-PFV-122-C,1,Enstatite,1,0,0,0,"(30.00,0.00)",fraction c (<10 um),bmr1,10.0,1,0,,15-FEB-11 to 15-FEB-11
+SPM0473,MT-TJM-068,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,02-JUL-07 to 02-JUL-07
+SPM0474,MT-TJM-069,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,02-JUL-07 to 02-JUL-07
+SPM0475,MT-TJM-070,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,02-JUL-07 to 02-JUL-07
+SPM0476,MT-TJM-071,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,02-AUG-07 to 02-AUG-07
+SPM0477,MT-TJM-072,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,02-AUG-07 to 02-AUG-07
+SPM0478,MT-TJM-073,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,03-AUG-07 to 03-AUG-07
+SPM0479,MT-TJM-074,1,Spinel,1,0,0,0,"(30.00,0.00)",<38 um,c1,15.0,1,0,,03-AUG-07 to 03-AUG-07
+SPM0480,MX-CMP-084-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0481,MX-CMP-084-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,05-APR-13 to 05-APR-13
+SPM0482,MX-CMP-085-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0483,MX-CMP-085-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,05-APR-13 to 05-APR-13
+SPM0484,MX-CMP-086-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0485,MX-CMP-086-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,05-APR-13 to 05-APR-13
+SPM0486,MX-CMP-086-G,2,Spinel,1,0,0,0,"(30.00,0.00)",fraction g;fraction g (65 um),bir1;c1,12.0,1,0,,18-APR-13 to 23-APR-13
+SPM0487,MX-CMP-086-H,2,Spinel,1,0,0,0,"(30.00,0.00)",65 um,bir1;c1,12.0,1,0,,22-APR-13 to 23-APR-13
+SPM0488,MX-CMP-087-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0489,MX-CMP-087-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,05-APR-13 to 05-APR-13
+SPM0490,MX-CMP-088-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0491,MX-CMP-088-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,15-APR-13 to 15-APR-13
+SPM0492,MX-CMP-089-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0493,MX-CMP-089-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,15-APR-13 to 15-APR-13
+SPM0494,MX-CMP-090-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0495,MX-CMP-090-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,15-APR-13 to 15-APR-13
+SPM0496,MX-CMP-091-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0497,MX-CMP-091-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,2-APR-12 to 2-APR-12
+SPM0498,MX-CMP-092-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0499,MX-CMP-092-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,01-APR-13 to 01-APR-13
+SPM0500,MX-CMP-093-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0501,MX-CMP-093-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,01-APR-13 to 01-APR-13
+SPM0502,MX-CMP-094-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0503,MX-CMP-094-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,2-APR-12 to 2-APR-12
+SPM0504,MX-CMP-095-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,02-APR-13 to 02-APR-13
+SPM0505,MX-CMP-096-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,02-APR-13 to 02-APR-13
+SPM0506,MX-CMP-097-C,1,Spinel,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,16-APR-13 to 16-APR-13
+SPM0507,MX-CMP-097-C2,1,Spinel,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,02-APR-13 to 02-APR-13
+SPM0508,MX-CMP-098-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0509,MX-CMP-098-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,27-MAR-13 to 27-MAR-13
+SPM0510,MX-CMP-099-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0511,MX-CMP-099-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,27-MAR-13 to 27-MAR-13
+SPM0512,MX-CMP-100-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0513,MX-CMP-100-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,27-MAR-13 to 27-MAR-13
+SPM0514,MX-CMP-101-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0515,MX-CMP-101-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,27-MAR-13 to 27-MAR-13
+SPM0516,MX-CMP-102-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0517,MX-CMP-102-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,29-MAR-13 to 29-MAR-13
+SPM0518,MX-CMP-103-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0519,MX-CMP-103-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,29-MAR-13 to 29-MAR-13
+SPM0520,MX-CMP-104-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0521,MX-CMP-104-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,29-MAR-13 to 29-MAR-13
+SPM0522,MX-EJH-060,1,Andradite,1,0,0,0,"(30.00,0.00)",,c1,15.0,1,0,,15-FEB-06 to 15-FEB-06
+SPM0523,NP-TJW-030,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,3-MAR-11 to 3-MAR-11
+SPM0524,NP-TJW-031,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,3-MAR-11 to 3-MAR-11
+SPM0525,NP-TJW-032,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0526,NP-TJW-033,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0527,NP-TJW-034,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0528,NP-TJW-035,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0529,NP-TJW-036,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0530,NP-TJW-037,1,Apatite,1,0,0,0,"(30.00,0.00)",,bmr1,9.0,0,0,,29-APR-11 to 29-APR-11
+SPM0531,PA-CMP-005,1,Albite,1,0,0,0,"(30.00,0.00)",<250 UM,c1,9.0,0,0,,3-JUN-92 to 3-JUN-92
+SPM0532,PA-CMP-005-A,2,Albite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,ca;nn,9.0,0,0,,16-JUL-92 to 30-JUL-92
+SPM0533,PA-CMP-005-B,2,Albite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,cb;nn,9.0,0,0,,16-JUL-92 to 30-JUL-92
+SPM0534,PA-CMP-005-C,2,Albite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,cc;nn,9.0,0,0,,16-JUL-92 to 30-JUL-92
+SPM0535,PA-CMP-005-E,2,Albite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,ce;nn,9.0,0,0,,24-AUG-92 to 24-AUG-92
+SPM0536,PA-CMP-005-F,1,Albite,1,0,0,0,"(30.00,30.00)",,nn,9.0,0,0,,24-AUG-92 to 24-AUG-92
+SPM0537,PA-CMP-005-G,2,Albite,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,cg;nn,9.0,0,0,,24-AUG-92 to 24-AUG-92
+SPM0538,PD-CMP-001,2,Diopside,1,0,0,0,"(30.00,0.00)",<250 UM,c1;c2,9.5,1,0,,03-FEB-86 to 19-OCT-84
+SPM0539,PD-CMP-006,1,Diopside,1,0,0,0,"(30.00,0.00)",<250 UM,c1,9.0,0,0,,06-FEB-86 to 06-FEB-86
+SPM0540,PD-CMP-007,2,Diopside,1,0,0,0,"(30.00,0.00)",250-500 UM,c1,9.0,0,0,,14-SEP-87 to 14-SEP-87
+SPM0541,PD-CMP-008,2,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<250 UM,c1;n,9.0,0,0,,11-JUN-92 to 12-JUN-92
+SPM0542,PD-CMP-010,1,Diopside,1,0,0,0,"(30.00,0.00)",6 um,bir1,9.0,0,0,,14-FEB-12 to 14-FEB-12
+SPM0543,PD-CMP-010-C,1,Diopside,1,0,0,0,"(30.00,0.00)",fraction c (45-75 um),bir1,9.0,0,0,,28-FEB-12 to 28-FEB-12
+SPM0544,PD-CMP-010-C2,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 um,c1,15.0,1,0,,29-MAR-13 to 29-MAR-13
+SPM0545,PD-CMP-011,1,Diopside,1,0,0,0,"(30.00,0.00)",6 um,bir1,9.0,0,0,,14-FEB-12 to 14-FEB-12
+SPM0546,PD-JFM-009,1,Diopside,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,04-AUG-96 to 04-AUG-96
+SPM0547,PK-CMP-001,1,Orthoclase,1,0,0,0,"(30.00,0.00)",,c1,10.0,1,0,,15-AUG-86 to 15-AUG-86
+SPM0548,PO-EAC-052,1,Diopside,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,13-JAN-89 to 13-JAN-89
+SPM0549,PO-EAC-053,1,Diopside,1,0,0,0,"(30.00,0.00)",45-75 UM,c3,9.0,0,0,,29-SEP-89 to 29-SEP-89
+SPM0550,PP-ALS-108,7,Diopside,1,0,0,0,"(30.00,0.00)",<45 um,ca;cb;cc;cd;ce;cg,11.6,7,0,,02-APR-12 to 30-MAR-12
+SPM0551,PP-CMP-020,1,Diopside,1,0,0,0,"(30.00,0.00)",<250 UM,c1,9.0,0,0,,6-OCT-87 to 6-OCT-87
+SPM0552,PP-CMP-021,3,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",<45 UM,c1;c5;n,9.3,0,0,,11-JUN-92 to 30-OCT-87
+SPM0553,PP-CMP-022,3,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",45-75 UM,c1;c3;n,9.3,0,0,,11-JUN-92 to 30-OCT-87
+SPM0554,PP-CMP-023,3,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",75-125 UM,c1;c5;n,9.3,0,0,,11-JUN-92 to 30-OCT-87
+SPM0555,PP-CMP-024,1,Diopside,1,0,0,0,"(30.00,0.00)",25 UM,c1,9.0,0,0,,06-NOV-87 to 06-NOV-87
+SPM0556,PP-CMP-025,1,Diopside,1,0,0,0,"(30.00,0.00)",25-63 UM,c1,9.0,0,0,,06-NOV-87 to 06-NOV-87
+SPM0557,PP-CMP-026,1,Diopside,1,0,0,0,"(30.00,0.00)",63-125 UM,c1,9.0,0,0,,06-NOV-87 to 06-NOV-87
+SPM0558,PP-CMP-027-A,2,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",,ca;nn,9.0,0,0,,15-JUL-92 to 29-JUL-92
+SPM0559,PP-CMP-027-B,4,Diopside,1,0,0,0,"(30.00,0.00);(30.00,30.00)",fraction b (25-75 um),c2;cb;m;nn,9.2,1,0,,11-NOV-96 to 30-DEC-95
+SPM0560,PP-CMP-027-C,1,Diopside,1,0,0,0,"(30.00,0.00)",,cc,9.0,0,0,,15-JUL-92 to 15-JUL-92
+SPM0561,PP-TXH-038-A,1,Hypersthene,1,0,0,0,"(30.00,0.00)",<25 um,ca,9.0,0,0,,03-MAY-93 to 03-MAY-93
+SPM0562,PP-TXH-038-B,1,Hypersthene,1,0,0,0,"(30.00,0.00)",25-45 um,cb,9.0,0,0,,03-MAY-93 to 03-MAY-93
+SPM0563,PP-TXH-038-C,1,Hypersthene,1,0,0,0,"(30.00,0.00)",45-75 um,cc,9.0,0,0,,03-MAY-93 to 03-MAY-93
+SPM0564,PR-CMP-001,1,Rutile,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,14-FEB-86 to 14-FEB-86
+SPM0565,PR-CMP-002,2,Rutile,1,0,0,0,"(30.00,0.00)",<63 UM,c1;c2,9.0,0,0,,27-FEB-86 to 27-FEB-86
+SPM0566,QQ-C1M-002,2,Rutile,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,24-APR-15 to 27-APR-15
+SPM0567,QQ-C1M-002-CF,2,Rutile,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,19-JUN-15 to 23-JUN-15
+SPM0568,QQ-C1M-003-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,19-JUN-15 to 23-JUN-15
+SPM0569,QQ-C1M-004,2,Rutile,1,0,0,0,"(30.00,0.00)",<100 um,bir1;c1,12.0,1,0,,24-APR-15 to 27-APR-15
+SPM0570,QQ-C1M-004-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,19-JUN-15 to 23-JUN-15
+SPM0571,QQ-C1M-006-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,19-JUN-15 to 23-JUN-15
+SPM0572,QQ-C1M-007-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,23-JUN-15 to 25-JUN-15
+SPM0573,QX-C1M-000-CF,2,Muscovite,1,0,0,0,"(30.00,0.00)",<2 um,bir1;c1,12.0,1,2,,23-JUN-15 to 25-JUN-15
+SPM0574,SC-EAC-071,1,Grossular,1,0,0,0,"(0.00,15.00)",0-45 UM,c1,9.0,0,0,,30-JAN-91 to 30-JAN-91
+SPM0575,SD-GXB-004,3,Orthoclase,1,0,0,0,"(30.00,0.00)",,c1;c2;c3,10.0,3,0,,21-MAY-87 to 22-MAY-87
+SPM0576,SG-SJG-005,1,Apatite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,24-NOV-87 to 24-NOV-87
+SPM0577,SH-SJG-047,1,Muscovite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,13-MAR-90 to 13-MAR-90
+SPM0578,SM-CMP-067,2,Pyrope,1,0,0,0,"(30.00,0.00)",,c1,10.0,2,0,,01-OCT-86 to 01-OCT-86
+SPM0579,SM-CMP-074,1,Pyrope,1,0,0,0,"(30.00,0.00)",,c1,10.0,1,0,,15-OCT-86 to 15-OCT-86
+SPM0580,SR-JFM-045,2,Microcline,1,0,0,0,"(30.00,0.00)",710-1000 um,bir1;c1,12.0,1,0,,1-AUG-03 to 11-MAY-04
+SPM0581,SR-JFM-045-A,2,Microcline,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,10-JUN-04 to 7-JUN-04
+SPM0582,SR-JFM-047,3,Albite,1,0,0,0,"(30.00,0.00)",710-1000 um,bir1;bir2;c1,11.0,1,0,,1-AUG-03 to 19-MAY-04
+SPM0583,SR-JFM-047-A,2,Albite,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,10-JUN-04 to 7-JUN-04
+SPM0584,SR-JFM-050,2,Microcline,1,0,0,0,"(30.00,0.00)",710-1000 um,bir1;c1,12.0,1,0,,17-AUG-04 to 19-AUG-04
+SPM0585,SR-JFM-050-A,2,Microcline,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,12-JAN-05 to 14-DEC-04
+SPM0586,SR-JFM-055,2,Apatite,1,0,0,0,"(30.00,0.00)",710-1000 um,bir1;c1,12.0,1,0,,17-AUG-04 to 19-AUG-04
+SPM0587,SR-JFM-055-A,2,Apatite,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,14-JAN-05 to 20-JAN-05
+SPM0588,SR-JFM-066,2,Orthoclase,1,0,0,0,"(30.00,0.00)",710-1000 um,bir1;c1,12.0,1,0,,14-SEP-04 to 16-SEP-04
+SPM0589,SR-JFM-066-A,2,Orthoclase,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,2-MAR-05 to 3-MAR-05
+SPM0590,SR-JFM-071,2,Muscovite,1,0,0,0,"(30.00,0.00)",1000-3000 um;4 um,bir1;c1,12.0,1,0,,17-SEP-04 to 21-SEP-04
+SPM0591,SR-JFM-071-A,2,Muscovite,1,0,0,0,"(30.00,0.00)",fraction a (45-150 um),bir1;c1,12.0,1,0,,02-MAR-05 to 7-MAR-05
+SPM0592,SS-REA-010,1,Beryl,1,0,0,0,"(30.00,0.00)",<850 UM,c1,9.0,0,0,,18-NOV-91 to 18-NOV-91
+SPM0593,TH-C1M-007-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,24-JUN-15 to 29-JUN-15
+SPM0594,TH-C1M-009-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,26-JUN-15 to 29-JUN-15
+SPM0595,TH-C1M-012-CF,4,Muscovite;Rutile,2,4,0,1,"(30.00,0.00)",<2 um,bir1;c1,12.0,2,4,multiple mineral directories: Muscovite;Rutile; 4 exact duplicate files,2-JUL-15 to 29-JUN-15
+SPM0596,XM-CMP-008,2,Rutile,1,0,0,0,"(30.00,0.00)",,c1;c2,9.0,0,0,,27-FEB-86 to 27-FEB-86
+SPM0597,XT-CMP-006,1,Muscovite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-JUL-90 to 30-JUL-90
+SPM0598,XT-CMP-007,1,Muscovite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-JUL-90 to 30-JUL-90
+SPM0599,XT-CMP-008,1,Muscovite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,30-JUL-90 to 30-JUL-90
+SPM0600,XT-CMP-009,1,Muscovite,1,0,0,0,"(30.00,0.00)",,c1,9.0,0,0,,27-JUL-90 to 27-JUL-90
+SPM0601,YS-YGS-004,1,Albite,1,0,0,0,"(30.00,0.00)",,c1,14.0,1,0,,23-FEB-04 to 23-FEB-04
+SPM0602,YY-S2K-002,2,Orthoclase,1,0,0,0,,<250 um,bir1;c1,5.5,1,0,,"13-JUL-22, to 18-Jul-22,"
+SPM0603,ZI-EAC-001,1,Zircon,1,0,0,0,"(30.00,30.00)",,m,9.0,1,0,,2-OCT-01 to 2-OCT-01
+SPM0604,ZI-EAC-002,1,Zircon,1,0,0,0,"(30.00,30.00)",,m,9.0,1,0,,27-SEP-01 to 27-SEP-01
+SPM0605,,1,Andradite,1,0,0,0,"(30.00,30.00)",<45 UM,m,8.0,0,0,,08-AUG-97 to 08-AUG-97
+SPM0606,,1,Apatite,1,0,0,0,"(30.00,30.00)",,397,9.0,0,0,,25-MAR-97 to 25-MAR-97
+SPM0607,,1,Beryl,1,0,0,0,"(30.00,30.00)",,n,8.0,0,0,,18-NOV-91 to 18-NOV-91
+SPM0608,,1,Calcite,1,0,0,0,"(30.00,30.00)",<45 UM,m,8.0,0,0,,08-AUG-97 to 08-AUG-97
+SPM0609,,1,Calcite,1,0,0,0,"(30.00,30.00)",,n,8.0,0,0,,8-DEC-92 to 8-DEC-92
+SPM0610,,1,Diopside,1,0,0,0,"(30.00,30.00)",<45um,397,9.0,0,0,,27-MAR-97 to 27-MAR-97
+SPM0611,,1,Dolomite,1,0,0,0,"(30.00,30.00)",fraction a,n,8.0,0,0,,19-JUL-97 to 19-JUL-97
+SPM0612,,1,Dolomite,1,0,0,0,"(30.00,30.00)",fraction c,n,8.0,0,0,,19-JUL-97 to 19-JUL-97
+SPM0613,,1,Enstatite,1,0,0,0,"(30.00,30.00)",<45um,397,9.0,0,0,,27-MAR-97 to 27-MAR-97
+SPM0614,,1,Quartz,1,0,0,0,"(30.00,30.00)",,n,8.0,0,0,,13-JUL-92 to 13-JUL-92
+SPM0615,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,8-SEP-88 to 8-SEP-88
+SPM0616,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,8-SEP-88 to 8-SEP-88
+SPM0617,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,8-SEP-88 to 8-SEP-88
+SPM0618,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,9-SEP-88 to 9-SEP-88
+SPM0619,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,9-SEP-88 to 9-SEP-88
+SPM0620,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,9-SEP-88 to 9-SEP-88
+SPM0621,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,8-SEP-88 to 8-SEP-88
+SPM0622,,1,Spinel,1,0,0,0,"(30.00,30.00)",75-500 UM,m,8.0,0,0,,05-JUN-00 to 05-JUN-00
+SPM0623,,1,Spinel,1,0,0,0,"(30.00,30.00)",75-250 um,m,8.0,0,0,,13-JUN-00 to 13-JUN-00
+SPM0624,,1,Spinel,1,0,0,0,"(30.00,30.00)",<75 UM,m,8.0,0,0,,15-JUN-00 to 15-JUN-00
+SPM0625,,1,Spinel,1,0,0,0,"(30.00,30.00)",75-500 UM,m,8.0,0,0,,05-JUN-00 to 05-JUN-00
+SPM0626,,1,Spinel,1,0,0,0,"(30.00,30.00)",75-250 um,m,8.0,0,0,,13-JUN-00 to 13-JUN-00
+SPM0627,,1,Spinel,1,0,0,0,"(30.00,30.00)",<75 UM,m,8.0,0,0,,15-JUN-00 to 15-JUN-00
+SPM0628,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,9-SEP-88 to 9-SEP-88
+SPM0629,,1,Spinel,1,0,0,0,"(30.00,0.00)",,,8.0,0,0,,9-SEP-88 to 9-SEP-88

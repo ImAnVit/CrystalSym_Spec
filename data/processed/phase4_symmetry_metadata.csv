@@ -1,0 +1,383 @@
+provenance_group_id,mineral_label,crystal_system,point_group,space_group_symbol,space_group_number,polymorph_identifier,polymorph_ambiguous,provenance_tentative,high_conflict,high_conflict_type,symmetry_assignment_validated,symmetry_primary_eligible,symmetry_eligibility_status,source_reference,notes
+SPM0002,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0003,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0004,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0005,Olivine,orthorhombic,mmm,Pbnm,62,,False,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB description; mineral identity conflicts with directory,Tentative provenance: Mineral directory label: Olivine; WARNING: Mineral directory 'Olivine' but description mentions 'plagioclase'; HIGH conflict: mineral_name_vs_description
+SPM0006,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0007,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0008,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0009,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0010,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0011,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0012,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0013,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0014,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0015,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0016,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0017,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0018,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0019,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0020,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0021,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0022,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0023,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0024,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0025,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0026,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0027,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0028,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0029,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0030,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0031,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0032,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0033,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0034,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0035,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0036,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0037,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0038,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0039,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0040,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0041,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0042,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0043,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0044,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0045,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0046,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0047,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0049,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0050,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0051,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0052,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0053,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0054,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0055,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0056,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0057,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0058,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0059,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0060,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0061,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0062,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0063,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0064,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0065,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0066,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0067,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0068,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0069,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0070,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0071,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0072,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0073,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0074,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0075,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0076,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0077,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0078,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0079,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0080,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0081,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0083,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0084,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0085,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0086,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0087,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0088,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0089,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0090,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0091,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0092,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0093,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0094,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0095,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0096,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0097,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0098,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0102,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0103,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0104,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0105,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0106,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0107,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0108,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0109,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0110,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0111,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0112,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0113,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0114,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0115,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0116,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0117,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0118,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0119,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0120,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0121,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0122,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0124,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0125,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0126,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0127,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0128,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0129,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0130,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0131,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0132,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0133,Enstatite,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0162,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0163,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0164,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0165,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0166,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0167,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0168,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0169,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0170,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB description; mineral identity conflicts with directory,Polymorph ambiguous: alpha_beta_polymorph; Tentative provenance: Mineral directory label: Quartz; WARNING: Mineral directory 'Quartz' but description mentions 'illite'; HIGH conflict: mineral_name_vs_description
+SPM0171,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0173,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0178,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0179,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0180,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0181,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0182,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0183,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0184,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0185,Olivine,orthorhombic,mmm,Pbnm,62,,False,False,True,augite_olivine_unexplained_duplicate,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,HIGH conflict: augite_olivine_unexplained_duplicate
+SPM0197,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0198,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0199,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0200,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0201,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0214,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0220,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0221,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0222,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0223,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0225,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0226,Rutile,tetragonal,4/mmm,P42/mnm,136,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0233,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0234,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0235,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0236,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0237,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0238,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0239,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0240,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0241,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0242,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0243,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0244,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0245,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0246,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0247,Augite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0248,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0250,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0252,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0254,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0256,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0258,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0260,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0262,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0264,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0266,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0268,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0270,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0272,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0274,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0276,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0278,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0280,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0281,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0282,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0284,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0287,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0288,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0289,Andradite,cubic,m-3m,Ia-3d,229,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0290,Andradite,cubic,m-3m,Ia-3d,229,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0291,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0292,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0293,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0294,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0295,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0296,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0297,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0298,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0299,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0321,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0322,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0323,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0324,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0325,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0326,Apatite,hexagonal,6/m,P63/m,176,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0327,Calcite,trigonal,-3m,R-3c,167,,False,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB description; mineral identity conflicts with directory,Tentative provenance: Mineral directory label: Calcite; WARNING: Mineral directory 'Calcite' but description mentions 'sepiolite'; HIGH conflict: mineral_name_vs_description
+SPM0328,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0329,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0330,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0331,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0332,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0333,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0339,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0340,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0341,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0342,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0343,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0344,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0345,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0346,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0347,Quartz,trigonal,32,P3121,152,alpha_beta_polymorph,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: alpha_beta_polymorph
+SPM0348,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0349,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0350,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0351,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0371,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0372,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0373,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0374,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0375,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0376,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0377,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0378,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0379,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0380,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0381,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0382,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0383,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0384,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0385,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0386,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0387,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0388,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0390,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0391,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0392,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0393,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0394,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0395,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0396,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0397,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0398,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0399,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0400,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0401,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0402,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0403,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0404,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0405,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0406,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0407,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0408,Calcite,trigonal,-3m,R-3c,167,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0412,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0415,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0416,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0417,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0418,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0419,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0420,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0421,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0422,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0423,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0424,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0425,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0426,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0427,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0428,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0429,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0430,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0431,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0432,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0433,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0434,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0435,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0436,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0437,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0438,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0439,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0440,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0441,Dolomite,trigonal,-3,R-3,148,ordering_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: ordering_polymorphs
+SPM0442,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0443,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0444,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0448,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0449,Rutile,tetragonal,4/mmm,P42/mnm,136,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0473,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0474,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0475,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0476,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0477,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0478,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0479,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0481,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0483,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0485,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0486,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0487,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0489,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0491,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0493,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0495,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0497,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0499,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0501,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0503,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0504,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0505,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0507,Spinel,cubic,m-3m,Fd-3m,227,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0509,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0511,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0513,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0515,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0517,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0519,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0521,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0522,Andradite,cubic,m-3m,Ia-3d,229,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0531,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0532,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0533,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0534,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0535,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0537,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0540,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0541,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0544,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0546,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0548,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0549,Diopside,monoclinic,2/m,C2/c,15,,False,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB mineral directory label,Tentative provenance: Mineral directory label: Diopside; WARNING: Mineral directory 'Diopside' but description mentions 'olivine'; HIGH conflict: mineral_name_vs_description
+SPM0550,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0551,Diopside,monoclinic,2/m,C2/c,15,,False,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB mineral directory label,Tentative provenance: Mineral directory label: Diopside; WARNING: Mineral directory 'Diopside' but description mentions 'clinopyroxene'; HIGH conflict: mineral_name_vs_description
+SPM0552,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0553,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0554,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0555,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0556,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0557,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0558,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0559,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0560,Diopside,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0561,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0562,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0563,Hypersthene,orthorhombic,mmm,Pbca,61,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0566,Rutile,tetragonal,4/mmm,P42/mnm,136,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0569,Rutile,tetragonal,4/mmm,P42/mnm,136,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0574,Grossular,cubic,m-3m,Ia-3d,229,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0576,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0577,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0580,Microcline,triclinic,-1,C-1,2,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0581,Microcline,triclinic,-1,C-1,2,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0582,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0583,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0584,Microcline,triclinic,-1,C-1,2,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0585,Microcline,triclinic,-1,C-1,2,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0586,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: polymorph_series
+SPM0587,Apatite,hexagonal,6/m,P63/m,176,polymorph_series,True,True,True,mineral_name_vs_description,False,False,SYM_TENTATIVE,RELAB description; mineral identity conflicts with directory,Polymorph ambiguous: polymorph_series; Tentative provenance: Mineral directory label: Apatite; WARNING: Mineral directory 'Apatite' but description mentions 'vanadinite'; HIGH conflict: mineral_name_vs_description
+SPM0588,Orthoclase,monoclinic,2/m,C2/m,12,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0589,Orthoclase,monoclinic,2/m,C2/m,12,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs
+SPM0590,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0591,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0592,Beryl,hexagonal,6/mmm,P6/mcc,192,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0597,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0598,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0599,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0600,Muscovite,monoclinic,2/m,C2/c,15,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0601,Albite,monoclinic,2/m,C2/m,12,,False,False,False,,True,True,SYM_HIGH_CONFIDENCE,RELAB mineral directory label,
+SPM0602,Orthoclase,monoclinic,2/m,C2/m,12,high_low_polymorphs,True,False,False,,True,False,SYM_AMBIGUOUS,RELAB mineral directory label,Polymorph ambiguous: high_low_polymorphs

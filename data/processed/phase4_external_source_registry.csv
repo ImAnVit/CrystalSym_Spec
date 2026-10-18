@@ -1,0 +1,4 @@
+source_id,source_name,source_type,description,url,access_date,notes
+SRC001,RELAB Spectral Library,spectral_database,NASA RELAB (Reflectance Experiment Laboratory) spectral library; University of Hawaii,https://relab.ps.brown.edu/,2026-10-06,"Primary source for mineral labels, sample descriptions, and provenance metadata"
+SRC002,Mineral Reference Databases,reference_compilation,"Standard mineralogical reference data compiled fromIMA-CNMNC, Mindat, and WebMineral",,2026-10-06,"Chemical formulas, crystal systems, space groups from authoritative mineralogy references"
+SRC003,Internal Phase 1-3 Metadata,internal_processed,CrystalSym-Spec Phase 1-3 canonical metadata and provenance audit,,2026-10-06,"specimen_group_id, duplicate relationships, identity issues from prior phases"

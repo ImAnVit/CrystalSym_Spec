@@ -1,0 +1,90 @@
+# Phase 1 Freeze Manifest — CrystalSym-Spec
+# Generated: 2026-09-22
+# This file records the frozen state of Phase 1.
+
+project:
+  name: CrystalSym-Spec
+  full_name: "Interpretable Machine Learning and Symbolic Regression of Crystal Symmetry, Chemistry, and Mineral Spectral Complexity"
+
+phase: 1
+phase_title: "Data Setup and Provenance Audit"
+freeze_status: FROZEN
+freeze_date: "2026-09-22"
+
+raw_dataset:
+  raw_file_count: 1017
+  mineral_directory_count: 20
+  raw_data_path: "data/raw/RELAB/"
+  raw_data_immutable: true
+  checksum_manifest: "metadata/provenance/relab_raw_checksums.csv"
+  unique_spectral_contents_by_md5: 933
+
+cf_blanks:
+  count: 92
+  definition: "Files with relab_sample_id ending in -CF"
+  excluded_from_spectral_analysis: true
+  retained_for_provenance: true
+  cfpp108_is_not_cf: true
+
+analysis_candidates:
+  count: 925
+  definition: "Non-CF files eligible for scientific analysis"
+
+provenance:
+  specimen_group_count: 629
+  unique_sample_id_count: 604
+  files_without_sample_id: 25
+  exact_duplicate_group_count: 84
+  files_in_exact_duplicate_groups: 168
+  duplicate_relationship_records: 330
+
+data_quality:
+  duplicate_wavelength_files_total: 75
+  duplicate_wavelength_files_among_candidates: 29
+  unsorted_wavelength_files: 4
+  files_with_uncertainty: 461
+  wavelength_grid_count: 89
+
+population:
+  category_a_eligible: 800
+  category_b_eligible_with_qc: 125
+  category_c_excluded: 92
+  total: 1017
+
+scripts:
+  - name: "scripts/build_canonical_provenance.py"
+    purpose: "Parse raw files, build provenance tables"
+    reproducible: true
+    validations_passed: 10
+  - name: "scripts/phase1_step4_population_analysis.py"
+    purpose: "Define analysis population, classify A/B/C"
+    reproducible: true
+    validations_passed: true
+
+key_output_files:
+  - "metadata/relab_measurements.csv"
+  - "metadata/relab_sample_groups.csv"
+  - "metadata/relab_duplicate_relationships.csv"
+  - "metadata/relab_analysis_population.csv"
+  - "metadata/provenance/relab_field_dictionary.md"
+  - "metadata/provenance/relab_raw_checksums.csv"
+  - "docs/research_decisions.md"
+  - "docs/methodology.md"
+  - "results/01_data_setup_audit/phase1_final_freeze_report.md"
+  - "results/01_data_setup_audit/phase1_final_summary.md"
+
+unresolved_issues:
+  - "Pyroxene class structure (Augite/Diopside/Hypersthene/Enstatite overlap)"
+  - "Augite-Olivine byte-identical pairs (3 pairs, cause unknown)"
+  - "Target wavelength grid selection (89 grids exist)"
+  - "External chemistry/crystallography data sources"
+  - "Grain-size variant treatment strategy"
+  - "Duplicate wavelength preprocessing method"
+  - "Unsorted wavelength preprocessing method"
+
+constraints:
+  raw_files_must_remain_immutable: true
+  no_spectral_preprocessing_applied: true
+  no_external_data_linked: true
+  no_ml_or_feature_engineering: true
+  phase2_requires_this_freeze: true

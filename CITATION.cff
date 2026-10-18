@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the associated manuscript.
+title: >-
+  Evidence Auditor: A configurable metadata-coverage tool for mineral
+  spectral libraries
+authors:
+  - name: [Author 1]
+    affiliation: [Affiliation 1]
+  - name: [Author 2]
+    affiliation: [Affiliation 2]
+version: 1.0.0
+date-released: "2026-10-18"
+license: BSD-3-Clause
+url: "[repository URL to be determined]"
+doi: "[DOI to be assigned at publication]"
+keywords:
+  - mineral spectroscopy
+  - spectral library
+  - metadata audit
+  - evidence framework
+  - RELAB
+references:
+  - type: article
+    title: >-
+      What Can Curated Mineral Spectral Libraries Support? A Provenance-Aware
+      Assessment of Dependence Structures, Metadata Gaps, and Inferential Limits
+      in RELAB
+    authors:
+      - name: [Author 1]
+      - name: [Author 2]
+    journal: Computers & Geosciences
+    year: 2026
+    status: in-preparation
