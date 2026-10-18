@@ -6,7 +6,7 @@ A reproducible assessment of what curated mineral spectral libraries can and can
 
 This repository accompanies the manuscript:
 
-> [Authors]. *What Can Curated Mineral Spectral Libraries Support? A Provenance-Aware Assessment of Dependence Structures, Metadata Gaps, and Inferential Limits in RELAB.* Computers & Geosciences [in preparation].
+> [Vitaly Andriyko]. *What Can Curated Mineral Spectral Libraries Support? A Provenance-Aware Assessment of Dependence Structures, Metadata Gaps, and Inferential Limits in RELAB.* Computers & Geosciences [in preparation].
 
 The project demonstrates that standard ML workflows applied to curated spectral libraries can produce invisible but fundamental inferential limitations when provenance structures, metadata gaps, and dependence relationships are not accounted for.
 
@@ -168,6 +168,6 @@ BSD 3-Clause. See `LICENSE`.
 
 If you use this software, please cite the associated manuscript:
 
-> [Authors]. What Can Curated Mineral Spectral Libraries Support? A Provenance-Aware Assessment of Dependence Structures, Metadata Gaps, and Inferential Limits in RELAB. *Computers & Geosciences* [in preparation].
+> [Vitaly Andriyko]. What Can Curated Mineral Spectral Libraries Support? A Provenance-Aware Assessment of Dependence Structures, Metadata Gaps, and Inferential Limits in RELAB. *Computers & Geosciences* [in preparation].
 
 A `CITATION.cff` file is provided for automated citation extraction.
